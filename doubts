@@ -1,1 +1,6 @@
 what is the difference between efficiency? bandwidth? and throughput?
+  bandwidth:- Bandwidth is the raw capability of a communications channel to move data through that channel.
+  Typically measured in bits or bytes per second (or some, possibly large, multiple thereof). 
+  May also be measured in hertz.
+  
+Throughout is the number of bits per second. Bandwidth is something directly proportional to throughput.
